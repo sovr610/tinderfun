@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXIIfElONb9U1juR+5yUSei/nxxZYfa8fAMhYzyAZxRw7mrghddHuUpY2UKWl3MbOLP5SrhgFgr8fVcbnF4t3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parker Bidigare\\Desktop\\tinderAI\\tinderBot\\tinderBot\\tinderBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parker Bidigare\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

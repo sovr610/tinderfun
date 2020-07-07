@@ -1,0 +1,15 @@
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.exe
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.deps.json
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.runtimeconfig.json
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.runtimeconfig.dev.json
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.dll
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\tinderBot.pdb
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.csprojAssemblyReference.cache
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.AssemblyInfoInputs.cache
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.AssemblyInfo.cs
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.dll
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.pdb
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.genruntimeconfig.cache
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.csproj.CoreCompileInputs.cache
+C:\Users\Parker Bidigare\Desktop\tinderAI\tinderBot\tinderBot\obj\Debug\net5.0\tinderBot.csproj.CopyComplete
