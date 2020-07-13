@@ -19,7 +19,7 @@ namespace tinderBot
             try
             {
                 WebClient client = new WebClient();
-                client.BaseAddress = "http://10.0.0.215:5000";
+                client.BaseAddress = "http://localhost:5000";
                 string data = client.DownloadString("/getMatches");
                 matchDecode decode = new matchDecode();
                 return decode.decode(data);
@@ -39,7 +39,7 @@ namespace tinderBot
                 var send = new sndMsg();
                 send.match_id = match_id;
                 send.msg = msg;
-                string info = call(null, null, "http://10.0.0.215/sendMessage", "POST", send).Result;
+                string info = call(null, null, "http://localhost:5000/sendMessage", "POST", send).Result;
                 Console.WriteLine(info);
                 return false;
             }
